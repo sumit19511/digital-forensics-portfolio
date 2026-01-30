@@ -8,6 +8,13 @@ No real victim or confidential data is included.
 
 ---
 
+## 🎯 What This Portfolio Demonstrates
+- Practical understanding of digital forensic methodology
+- Evidence handling and documentation practices
+- Ethical and legal awareness in forensic investigations
+- Ability to structure and communicate forensic findings
+- Familiarity with industry-standard forensic tools
+
 ## 🔍 Focus Areas
 - Digital Forensics & Incident Response (DFIR)
 - Evidence Acquisition & Chain of Custody
@@ -40,7 +47,7 @@ High-level learning notes from:
 
 ---
 
-## 🧰 Tools & Technologies (Training & Lab Exposure)
+## 🧰 Tools & Technologies (Hands-on-Training & Lab Exposure)
 - Autopsy, FTK Imager, EnCase
 - Falcon Forensic Workstation, Tableau TX1
 - OSForensics (Triage)
