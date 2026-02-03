@@ -5,6 +5,11 @@ To understand internal desktop hardware components from a digital forensics pers
 
 ---
 
+**Personal Learning Context:**  
+This inspection was performed as part of my personal learning to understand how storage devices are identified prior to forensic acquisition.
+
+---
+
 ## Scenario (Learning-Based)
 A desktop system was physically inspected to identify:
 - Presence and type of storage devices
