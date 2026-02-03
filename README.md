@@ -1,4 +1,4 @@
-# Digital Forensics & DFIR Portfolio – Sumit Dahiya
+# Hands-on DFIR casework, forensic labs, and evidence-handling documentation
 
 This repository contains **simulated and lab-based digital forensics and DFIR work**
 demonstrating forensic methodology, evidence handling, analysis, and reporting.
