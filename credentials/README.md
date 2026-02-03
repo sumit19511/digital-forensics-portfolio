@@ -1,8 +1,8 @@
 # Professional Credentials & Training
 
-This section documents formal training, certifications, and workshops completed as part of my learning journey in Digital Forensics, DFIR, and Cybercrime Investigation.
+> These certifications support the hands-on forensic casework documented in this repository.
 
-These credentials complement the hands-on casework and forensic exercises documented elsewhere in this repository.
+This section documents formal training, certifications, and workshops completed as part of my learning journey in Digital Forensics, DFIR, and Cybercrime Investigation.
 
 ---
 
