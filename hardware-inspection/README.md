@@ -44,6 +44,8 @@ This exercise focuses on **pre-acquisition awareness**, not data extraction.
 - No data accessed or altered
 - No real case or sensitive data involved
 - Exercise conducted strictly for educational purposes
+- One HDD and one SSD were visually identified during internal inspection
+
 
 ---
 
