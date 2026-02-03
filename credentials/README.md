@@ -16,7 +16,7 @@ These credentials complement the hands-on casework and forensic exercises docume
 - File system and artifact analysis
 - Legal and ethical considerations in forensic investigations
 
-📄 Certificate: `CDFE_Certificate.jpg`
+📄 Certificate: `CDFE_Certificate.png`
 
 ---
 
@@ -53,7 +53,7 @@ These credentials complement the hands-on casework and forensic exercises docume
 - Legal awareness
 
 📄 Certificates:
-- `IndianCyberClub_DF_CyberCrime.jpg`
+- `IndianCyberClub_DF_CyberCrime.png`
 - `IndianCyberClub_DarkWeb_Workshop.jpg`
 
 ---
@@ -65,7 +65,7 @@ These credentials complement the hands-on casework and forensic exercises docume
 - Linux, SQL, SIEM basics
 - Incident detection and response concepts
 
-📄 Certificate: `Google_Cybersecurity.jpg`
+📄 Certificate: `Google_Cybersecurity.png`
 
 ---
 
@@ -74,7 +74,7 @@ These credentials complement the hands-on casework and forensic exercises docume
 - AI-assisted forensic analysis
 - Automation awareness in DFIR workflows
 
-📄 Certificate: `Belkasoft_AI_DFIR.jpg`
+📄 Certificate: `Belkasoft_AI_DFIR.png`
 
 ---
 
