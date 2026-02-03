@@ -48,4 +48,4 @@ This exercise focuses on **pre-acquisition awareness**, not data extraction.
 ---
 
 ## Image Reference
-![Desktop Hardware Inspection](desktop-hardware-inspection.jpg)
+![Desktop Hardware Inspection](desktop-hardware-inspection.png)
