@@ -16,7 +16,8 @@ These credentials complement the hands-on casework and forensic exercises docume
 - File system and artifact analysis
 - Legal and ethical considerations in forensic investigations
 
-📄 Certificate: `CDFE_Certificate.png`
+📄 **Certificate:**  
+![CDFE Certificate](CDFE_certificate.png)
 
 ---
 
@@ -28,7 +29,8 @@ These credentials complement the hands-on casework and forensic exercises docume
 - Live vs dead system awareness
 - Initial incident response support
 
-📄 Certificate: `OSForensics_Triage.jpg`
+📄 **Certificate:**  
+![OSForensics Triage](OSForensics_Triage.jpg)
 
 ---
 
@@ -40,7 +42,8 @@ These credentials complement the hands-on casework and forensic exercises docume
 - Case documentation
 - Practical forensic exercises
 
-📄 Certificate: `HawkEye_Forensics.jpg`
+📄 **Certificate:**  
+![HawkEye Forensics](HawkEye_Forensics.jpg)
 
 ---
 
@@ -52,9 +55,9 @@ These credentials complement the hands-on casework and forensic exercises docume
 - Dark web investigation (workshop)
 - Legal awareness
 
-📄 Certificates:
-- `IndianCyberClub_DF_CyberCrime.png`
-- `IndianCyberClub_DarkWeb_Workshop.jpg`
+📄 **Certificate:**  
+![Indian Cyber Club](IndianCyberClub_DF_CyberCrime.PNG)
+![Indian Cyber Club](IndianCyberClub_DarkWeb_Workshop.jpg)
 
 ---
 
@@ -65,8 +68,8 @@ These credentials complement the hands-on casework and forensic exercises docume
 - Linux, SQL, SIEM basics
 - Incident detection and response concepts
 
-📄 Certificate: `Google_Cybersecurity.png`
-
+📄 **Certificate:**  
+![Google Cybersecurity](Google_Cybersecurity.png)
 ---
 
 ### BelkasoftGPT – AI in DFIR (CPE Training)
@@ -74,7 +77,8 @@ These credentials complement the hands-on casework and forensic exercises docume
 - AI-assisted forensic analysis
 - Automation awareness in DFIR workflows
 
-📄 Certificate: `Belkasoft_AI_DFIR.png`
+📄 **Certificate:**  
+![BelkasoftGPT](Belkasoft_AI_DFIR.png)
 
 ---
 
